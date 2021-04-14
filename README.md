@@ -25,7 +25,29 @@
    - 현재 위치 정보 기준으로 일정 km 이내의 안전한 약속 장소를 찾아 추천.
    - 여러 명의 위치 기준으로 중간 지점을 추천하는 기능 추가 도입
 
-## Project setup
+## Backend Project Setup
+```
+Anaconda3 설치 후 python 버전 3.6.8 설치
+```
+
+### Anaconda3 Python Version 3.6.8 Install
+```
+conda create -n py36 python=3.6.8 //anaconda
+conda activate py36
+
+// --- 설정 해제 ---
+conda deactivate py36
+```
+
+### Python Dependency Install
+`pip install -r requirements.txt`로 의존성 받기
+
+### Server Load
+```
+gunicorn --bind 0.0.0.0:8000 comeet.wsgi:application
+```
+
+## Frontend Project setup
 ```
 yarn install
 ```
