@@ -107,6 +107,19 @@ yarn add vuetify
   
 
 ## Document
+
+<br>
+
+
+### Milestone
+![milestone_rec](Document/Milestone/before_milestone.png)
+
+![milestone_forward](Document/Milestone/future_forward.png)
+
+
+<br>
+
+
 <details>
     <summary> Convention </summary>
     <ul>
@@ -166,14 +179,7 @@ yarn add vuetify
         <a href="Document/DB ERD/erd.md"><li> ERD </li></a>
     </ul>
 </details>
-<details>
-    <summary> Milestone</summary>
-    <ul>
-![milestone_rec](Document/Milestone/before_milestone.png)
 
-![milestone_forward](Document/Milestone/future_forward.png)
-    </ul>
-</details>
 <details>
     <summary> Page Screenshot</summary>
     <ul>
