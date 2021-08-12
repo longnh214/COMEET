@@ -40,7 +40,7 @@ conda deactivate py36
 ```
 
 ### Python Dependency Install
-`pip install -r requirements.txt`로 의존성 받기
+`pip install -r requirements.txt`로 의존성을 받는다.
 
 ### Server Load
 ```
@@ -82,19 +82,19 @@ yarn add vuetify
 ## 📄 **활용 데이터 및 API**
 
 > 유동 인구 데이터
-   
+
 [데이터 기본 설명](https://www.bigdatahub.co.kr/product/view.do?pid=1002348)
       
 >  코로나 지역관리본부 크롤링
-   
+
 [코로나 실시간 서울시 구별 확진자 동향 데이터](https://www.seoul.go.kr/coronaV/coronaStatus.do)
       
 > 카드 사용 데이터
-   
+
 [카드 사용 데이터](https://dacon.io/competitions/official/235618/data/)
       
 > 현 사용자 위치 정보 (크롬 기반)
-   
+
 [Geolocation API](https://www.zerocho.com/category/HTML&DOM/post/59155228a22a5d001827ea5d)
 
    - 유동인구 & 카드 사용량 분석 ⇒ 사람 ⬇ 밀집도 ⬇
@@ -104,7 +104,7 @@ yarn add vuetify
      현재 위치 & 검색 위치 기반 ⇒ 편의성 ⬆
 
 
-  
+
 
 ## Document
 
@@ -169,7 +169,7 @@ yarn add vuetify
     <summary> Sequence Diagram </summary>
     <ul>
 ![Authsequence_diagram](Document/Sequence Diagram/Authsequence_diagram.png)
-        
+
 ![Main_functionsequence_diagram](Document/Sequence Diagram/Main_functionsequence_diagram.png)
     </ul>
 </details>
