@@ -114,7 +114,7 @@ yarn add vuetify
 ### Milestone
 ![milestone_rec](Document/Milestone/before_milestone.png)
 
-![milestone_forward](Document/Milestone/future_forward.png)
+![milestone_forward](Document/Milestone/future_milestone.png)
 
 
 <br>
