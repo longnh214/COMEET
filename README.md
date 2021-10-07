@@ -1,7 +1,6 @@
 ## <img src = "Document/Logo/Logo.png" width="5%"> CO-MEET
 
-> **Co-** (함께) + **Meet** (약속) = **CO-MEET**
-> ![milestone_forward](Document/Page Screenshot/screenshot/landing_page.png)
+> **Co-** (함께) + **Meet** (약속) = **CO-MEET** > ![milestone_forward](Document/Page Screenshot/screenshot/landing_page.png)
 
 ## SWAGGER-UI
 
@@ -126,6 +125,16 @@ yarn add vuetify
 ![Specification_2](Document/Specification/Specification_2.png)
 ![Specification_3](Document/Specification/Specification_3.png)
 
+### Sequence Diagram
+
+#### Auth Function Sequence Diagram
+
+![Authsequence_diagram](Document/Sequence Diagram/Authsequence_diagram.png)
+
+#### Main Function Sequence Diagram
+
+![Main_functionsequence_diagram](Document/Sequence Diagram/Main_functionsequence_diagram.png)
+
 <details>
     <summary> Convention </summary>
     <ul>
@@ -164,15 +173,7 @@ yarn add vuetify
         <a href="Document/Architecture/architecture.md"><li> Architecture</li></a>
     </ul>
 </details>
-<details>
-    <summary> Sequence Diagram </summary>
-    <ul>
-![Authsequence_diagram](Document/Sequence Diagram/Authsequence_diagram.png)
 
-![Main_functionsequence_diagram](Document/Sequence Diagram/Main_functionsequence_diagram.png)
-</ul>
-
-</details>
 <details>
     <summary> DB ERD </summary>
     <ul>
