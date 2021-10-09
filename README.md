@@ -2,10 +2,6 @@
 
 > **Co-** (함께) + **Meet** (약속) = **CO-MEET** > ![milestone_forward](Document/Page Screenshot/screenshot/landing_page.png)
 
-## SWAGGER-UI
-
-[SWAGGER](https://j4a203.p.ssafy.io/swagger/)
-
 ## 프로젝트 개요
 
 -   **진행기간** : 2021.03.02 ~ (ing)
