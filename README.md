@@ -125,11 +125,11 @@ yarn add vuetify
 
 #### Auth Function Sequence Diagram
 
-![Authsequence_diagram](Document/Sequence Diagram/Authsequence_diagram.png)
+![Authsequence_diagram](Document/Sequence_Diagram/Authsequence_diagram.png)
 
 #### Main Function Sequence Diagram
 
-![Main_functionsequence_diagram](Document/Sequence Diagram/Main_functionsequence_diagram.png)
+![Main_functionsequence_diagram](Document/Sequence_Diagram/Main_functionsequence_diagram.png)
 
 <details>
     <summary> Convention </summary>
