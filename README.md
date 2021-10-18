@@ -1,6 +1,8 @@
 ## <img src = "Document/Logo/Logo.png" width="5%"> CO-MEET
 
-> **Co-** (함께) + **Meet** (약속) = **CO-MEET** > ![milestone_forward](Document/Page Screenshot/screenshot/landing_page.png)
+> **Co-** (함께) + **Meet** (약속) = **CO-MEET** >
+
+![milestone_forward](Document/Page_Screenshot/screenshot/landing_page.png)
 
 ## 프로젝트 개요
 
