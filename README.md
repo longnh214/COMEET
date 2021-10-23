@@ -165,7 +165,6 @@ yarn add vuetify
     </ul>
 </details>
 <details>
-<details>
     <summary> Architecture </summary>
     <ul>
         <a href="Document/Architecture/architecture.md"><li> Architecture</li></a>
