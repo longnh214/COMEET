@@ -1,11 +1,11 @@
 ## Wireframe
 
-![Landing page](Document/Wireframe/Wireframe capture/Landing page.png)
+![Landing_page](Wireframe_capture/Landing_page.png)
 
-![Login page](Document/Wireframe/Wireframe capture/Login page.png)
+![Login_page](Wireframe_capture/Login_page.png)
 
-![Register page](Document/Wireframe/Wireframe capture/Register page.png)
+![Register_page](Wireframe_capture/Register_page.png)
 
-![Main page](Document/Wireframe/Wireframe capture/Main page.png)
+![Main_page](Wireframe_capture/Main_page.png)
 
-![Mypage](Document/Wireframe/Wireframe capture/Mypage.png)
+![Mypage](Wireframe_capture/Mypage.png)
