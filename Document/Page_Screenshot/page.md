@@ -1,18 +1,18 @@
 ## Page
 
-![Landing page](Document/Page_Screenshot/screenshot/landing_page.png)
+![Landing page](screenshot/landing_page.png)
 
-![Landing page](Document/Page_Screenshot/screenshot/landing_page.png)
+![Landing page](screenshot/landing_page.png)
 
-![Login_menu](Document/Page_Screenshot/screenshot/Login_menu.png)
+![Login_menu](screenshot/Login_menu.png)
 
-![Login](Document/Page_Screenshot/screenshot/Login.png)
+![Login](screenshot/Login.png)
 
-![search_page_map](Document/Page_Screenshot/screenshot/search_page_map.png)
+![search_page_map](screenshot/search_page_map.png)
 
-![search_page_graph](Document/Page_Screenshot/screenshot/search_page_graph.png)
-\_
-![FAQ_page](Document/Page_Screenshot/screenshot/FAQ_page.png)
+![search_page_graph](screenshot/search_page_graph.png)
+
+![FAQ_page](screenshot/FAQ_page.png)
 
 ## Page Description
 
