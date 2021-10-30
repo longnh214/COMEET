@@ -1,6 +1,6 @@
 ## <img src = "Document/Logo/Logo.png" width="5%"> CO-MEET
 
-> **Co-** (함께) + **Meet** (약속) = **CO-MEET** 
+> **Co-** (함께) + **Meet** (약속) = **CO-MEET**
 
 ![milestone_forward](Document/Page_Screenshot/screenshot/landing_page.png)
 
@@ -181,6 +181,6 @@ yarn add vuetify
 <details>
     <summary> Page Screenshot</summary>
     <ul>
-        <a href="Document/Page Screenshot/page.md"><li> Page Screenshot</li></a>
+        <a href="Document/Page_Screenshot/page.md"><li> Page Screenshot</li></a>
     </ul>
 </details>
