@@ -174,7 +174,7 @@ yarn add vuetify
 <details>
     <summary> DB ERD </summary>
     <ul>
-        <a href="Document/DB ERD/erd.md"><li> ERD </li></a>
+        <a href="Document/DB_ERD/erd.md"><li> ERD </li></a>
     </ul>
 </details>
 
