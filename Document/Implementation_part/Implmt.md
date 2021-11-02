@@ -1,10 +1,9 @@
 ## Implementation
 
-![Swageer](Document/Implementation part/capture/swagger.png)
+![Swageer](capture/swagger.png)
 
-![code func](Document/Implementation part/capture/code.png)
+![code func](capture/code.png)
 
-![fpopl func](Document/Implementation part/capture/fpopl.png)
+![fpopl func](capture/fpopl.png)
 
-![corona func](Document/Implementation part/capture/corona.png)
-
+![corona func](capture/corona.png)
