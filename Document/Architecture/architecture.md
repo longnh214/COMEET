@@ -1,3 +1,3 @@
 ## Architecture
 
-![architecture](Document/Architecture/architecture.png)
+![architecture](architecture.png)
