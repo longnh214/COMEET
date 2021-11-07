@@ -206,18 +206,18 @@
 
 ```
 "user" : {
-		"_id" : "",
-		"email" : "test@test.com",
-    "password" : "암호화된 패스워드",
-    "nickname" : "test",
-		"address" : "",
-		"emailToken" : "", //이메일 인증을 위한 토큰
-		"flag" : true, //인증을 받은 사용자인지 아닌지 flag
-		"quitFlag" : false, // 탈퇴 flag
-    "shortcuts" : [
-				{"_id" : "Object_id("602d0fc3628e395b21169645")","nickname" : "낙훈", "address" : "경기도 고양시 일산동구"},
-				{"_id" : "Object_id("602d0fc3628e395b21167645")","nickname" : "세준", "address" : "서울특별시 관악구"},
-				{"_id" : "Object_id("602d0fc3628e395b21163645")","nickname" : "덕인", "address" : "서울특별시 영등포구"}
-		]
+	"_id" : "",
+	"email" : "test@test.com",
+	"password" : "암호화된 패스워드",
+	"nickname" : "test",
+	"address" : "",
+	"emailToken" : "", //이메일 인증을 위한 토큰
+	"flag" : true, //인증을 받은 사용자인지 아닌지 flag
+	"quitFlag" : false, // 탈퇴 flag
+	"shortcuts" : [
+		{"_id" : "Object_id("602d0fc3628e395b21169645")","nickname" : "낙훈", "address" : "경기도 고양시 일산동구"},
+		{"_id" : "Object_id("602d0fc3628e395b21167645")","nickname" : "세준", "address" : "서울특별시 관악구"},
+		{"_id" : "Object_id("602d0fc3628e395b21163645")","nickname" : "덕인", "address" : "서울특별시 영등포구"}
+	]
 }
 ```
